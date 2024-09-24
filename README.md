@@ -3,7 +3,6 @@
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=800&height=100&lines=Enthusiastic+to+learn+new+things+to+enrich+knowledge" alt="Typing SVG" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbidaAfrin)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">About Me 👩 </h3> 
 
@@ -93,8 +92,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbidaAfrin&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)-->
 
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=AbidaAfrin&icon=1&color=2)](https://visitcount.itsvg.in)-->
